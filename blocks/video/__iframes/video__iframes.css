@@ -1,13 +1,6 @@
 .video__iframes {
-    transform: translate(0,50px);
+  transform: translate(0,50px);
+  display: flex;
+  
 }
 
-.video__iframes:nth-child(1) {
-    margin-left: auto;
-    margin-right: 20px;
-}
-
-.video__iframes:nth-child(2) {
-    margin-left: 0;
-    margin-right: auto;
-}
